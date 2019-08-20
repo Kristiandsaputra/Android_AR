@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 2d6a6598009c32b4f810e6c29acfa6d5
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 1e42fbe8235fda845a4f7b4a045fdbf9
+  - enabled: 1
+    path: Assets/Scenes/ar.unity
+    guid: 109435a063d5a974da67a71bee18cfc0
+  - enabled: 1
+    path: Assets/Scenes/us.unity
+    guid: 5a708ba2b0a90d1408697016e2906338
+  - enabled: 1
+    path: Assets/Scenes/gmarker.unity
+    guid: b83a107e958e1924b885c338a2b8dd4e
+  - enabled: 1
+    path: Assets/Scenes/jupi.unity
+    guid: 0d85e6e47b42ab541a75584b0b111175
+  - enabled: 1
+    path: Assets/Scenes/mars.unity
+    guid: 4b54459b879bd0543b9482cf3b7c8083
+  - enabled: 1
+    path: Assets/Scenes/merkury.unity
+    guid: 2b81bb60d2cc1a0419200effe5a3c6f7
+  - enabled: 1
+    path: Assets/Scenes/neptun.unity
+    guid: 5169ef89a2daf9f429346ed62283ae4b
+  - enabled: 1
+    path: Assets/Scenes/saturn.unity
+    guid: c0313cf526129694f99cfdde5427dd4c
+  - enabled: 1
+    path: Assets/Scenes/sun.unity
+    guid: b861caadc95b52846b6ac681da25d0c2
+  - enabled: 1
+    path: Assets/Scenes/bumi.unity
+    guid: b250c533d5eb81b458742d6628d2f94d
+  - enabled: 1
+    path: Assets/Scenes/uran.unity
+    guid: 0dff988cd6c9dd0499e585d8b790b3f0
+  - enabled: 1
+    path: Assets/Scenes/venus.unity
+    guid: 97357336372f34b489368bec6bd0bd28
+  m_configObjects: {}
